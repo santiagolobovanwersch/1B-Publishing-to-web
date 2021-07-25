@@ -1,1 +1,1 @@
-This is an example of a website fro the Laurea course.
+This is an example of a website for the Laurea course "Foundations of Web Development.
